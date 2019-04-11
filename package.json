@@ -1,0 +1,27 @@
+{
+  "name": "xinify",
+  "version": "1.0.0",
+  "description": "A web browser based off chomium",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/77z/xinify.git"
+  },
+  "keywords": [
+    "xinify",
+    "web",
+    "browser",
+    "internet",
+    "web",
+    "browser"
+  ],
+  "author": "Vince Richter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/77z/xinify/issues"
+  },
+  "homepage": "https://github.com/77z/xinify#readme"
+}
